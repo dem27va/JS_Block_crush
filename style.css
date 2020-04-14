@@ -1,0 +1,13 @@
+#canv {
+    border: 1px solid black;
+}
+
+#note {
+    margin-top: 10px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    row-gap: 7px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
